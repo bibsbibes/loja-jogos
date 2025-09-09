@@ -1,0 +1,117 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+nav {
+  text-align: center;
+  background-color: dark;
+}
+
+footer {
+  border: solid;
+  text-align: center;
+  background-color: black;
+  color: white;
+  height: 100px;
+
+}
+
+
+
+nav {
+  height: 90px;
+  background-color: black;
+
+}
+.logo{
+  width: 105px;
+}
+.last{
+  width: 225px;
+  height: 225px;
+}
+
+.card{
+border-radius: 20px;
+align-items: center;
+margin-right: 20px;
+width: 310px;
+margin-bottom: 20px;
+display: grid;
+grid-template-rows: 1fr auto; 
+}
+
+.carousel-item {
+  height: 286px; /* ou altura necessária */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+
+.last {
+  margin-top: 10px;
+  max-width: 700px;
+  width: 100%;
+  border-radius: 10px;
+  text-align: center;
+}.last{
+  width: 225px;
+  height: 225px;
+}
+
+.card{
+border-radius: 20px;
+align-items: center;
+margin-right: 20px;
+width: 310px;
+margin-bottom: 20px;
+display: grid;
+grid-template-rows: 1fr auto; 
+}
+
+.carousel-item {
+  height: 286px; /* ou altura necessária */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+
+.last {
+  margin-top: 10px;
+  max-width: 700px;
+  width: 100%;
+  border-radius: 10px;
+  text-align: center;
+}
+.propaganda{
+  height: 200px;
+  width: 200px
+}
+.pagamento{
+  width: 1849px;
+  height: 325px;
+}
+.cor-principal {
+  background-color: black;
+  width: 100%; 
+}
+.desconto{
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+}
+.risco{
+  text-decoration-line: line-through;
+}
+.novo{
+  color: blue;
+}
+.jeitinho{
+  width: 243px;
+}
